@@ -15,7 +15,7 @@
         <CompStyles />
       </li>
       <li class="item">
-        <ProgressLine />wefwef
+        <ProgressLine />
       </li>
     </ul>
     
